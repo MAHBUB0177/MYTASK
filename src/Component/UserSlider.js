@@ -6,6 +6,8 @@ import Chip from '@mui/material/Chip';
 import shoping4 from '../images/shoping3.png'
 import shoping5 from '../images/shoping5.png'
 import shoping6 from '../images/shoping6.png'
+import shoping7 from '../images/Types-Of-Ecommerce.png'
+import shoping8 from '../images/ecommerce-web-page-concept-illustration_114360-8204.png'
 
 
 export const UserSlider = () => {
@@ -15,7 +17,7 @@ export const UserSlider = () => {
   <Carousel.Item>
   <img style={{ height: '400px' }}
                           className="d-block w-100"
-                          src={shoping4}
+                          src={shoping7}
                           alt="Second slide"
                         />
     <Carousel.Caption>
@@ -26,7 +28,7 @@ export const UserSlider = () => {
   <Carousel.Item>
   <img style={{ height: '400px' }}
                           className="d-block w-100"
-                          src={shoping5}
+                          src={shoping8}
                           alt="Third slide"
                         />
 
